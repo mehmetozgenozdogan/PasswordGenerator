@@ -1,11 +1,13 @@
 # PasswordGenerator
 Password Generator take some input from user and generate strong password given length and count.
 
+**Testing with Python3.6.7 64 bit version**
+
 Example
 
-Please Input Your Keywords       : paris,tokyo,2021,corona,HOLIDAY
-Please Input Your Password Length: 18
-Please Input Your Password Count : 2
+     |Please Input Your Keywords       : paris,tokyo,2021,corona,HOLIDAY
+     |Please Input Your Password Length: 18
+     |Please Input Your Password Count : 2
 
      _________________________
     |PASSWORD(s) GENERATING...
