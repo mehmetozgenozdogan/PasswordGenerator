@@ -1,4 +1,4 @@
-# PasswordGenerator
+# Password Generator
 Password Generator take some input from user and generate strong password given length and count.
 
 **Testing with Python 3.6.7 64 bit version**
